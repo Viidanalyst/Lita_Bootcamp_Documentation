@@ -3,5 +3,19 @@
 
 ### Project Overview
 
-
+---
 ### Data Sources
+
+### Tools Used 
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+- SQL
+- GitHub
+
+### Data Cleaning and Preparations
+
+### Exploratory Data Analysis
+
+### Data Analysis
+```SQL
+SELECT*FROM TABLE1
+WHERE CONDITION= TRUE
