@@ -16,6 +16,4 @@
 ### Exploratory Data Analysis
 
 ### Data Analysis
-```SQL
-SELECT*FROM TABLE1
-WHERE CONDITION= TRUE
+
