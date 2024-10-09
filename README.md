@@ -23,12 +23,25 @@ For this dataset the tool used is;
 ### Analysis
 The analysis for this dataset involved the use of Pivot tables to break down the dataset into simpler tables inorder to draw the insights. The Pivot tables for the analysis are shown below;
 
+![Pivot Tables File   Read-Only  - Excel 08-Oct-24 11_15_37 PM (5)](https://github.com/user-attachments/assets/e078604b-16df-4f95-89b1-9ae5faaf351d)
 
-  
+![Pivot Tables File   Read-Only  - Excel 08-Oct-24 11_15_37 PM (3)](https://github.com/user-attachments/assets/464d9eb7-83d5-4177-a1f3-7f02ddd363d7)
 
-### Data Cleaning and Preparations
+![Pivot Tables File   Read-Only  - Excel 08-Oct-24 11_15_37 PM (2)](https://github.com/user-attachments/assets/0dd933d2-088e-4de1-8e3b-5be5badf36b8)
 
-### Exploratory Data Analysis
+![Pivot Tables File   Read-Only  - Excel 08-Oct-24 11_15_37 PM (4)](https://github.com/user-attachments/assets/fb75bb57-c2f7-41e2-aa79-33366d0adeab)
 
-### Data Analysis
+![Pivot Tables File   Read-Only  - Excel 08-Oct-24 11_15_37 PM (6)](https://github.com/user-attachments/assets/7415174d-2760-4cd9-b0d1-943247462d02)
+
+---
+### Data Visualization
+I created charts using the pivot tables and created a simple minimalist dashboard.
+
+![Pivot Tables File - Excel 01-Oct-24 7_36_07 PM (2)](https://github.com/user-attachments/assets/5f408c22-4eea-4f73-bacb-23909acf4765)
+
+
+
+
+
+
 
